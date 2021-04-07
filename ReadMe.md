@@ -1,6 +1,5 @@
-![](RackMultipart20210407-4-ssea7x_html_6ca4ac085ab94b3b.jpg)
 
-<p>Final Project Report for</p>
+<h1><p>Final Project Report for</p></h1>
 
 <p>E-Commerce Website: Online Book Shop</p>
 
@@ -57,13 +56,15 @@ Our aim is to make an E-Commerce website. A book store where you can buy any boo
 
 **Database Module:**
 
+<a href="https://ibb.co/tDpRXZN"><img src="https://i.ibb.co/cQhqLbp/Screenshot-1.png" alt="Screenshot-1" border="0"></a>
+
 
 **Implementation:**
 
 <p>At first, we started by brushing up our knowledge in the various subjects and the first thing we did was create the Database for books while simultaneously working on our Front-end of the website. In the homepage of our website you can see the books that available for the customers to buy. And If clicked on each, every book has its own page of description, Price, title and Reviews. Whilst that was going we made sure the back-end work of various features was going on. Gradually, we added the various features such as the Unique User Account feature and Publisher features where every publisher can track their books, add new books, see how many they have sold, delete any book if they are no longer in stock. Or inform us that more stock is available and so on. Any change the publisher makes on their end is simultaneously updates in the homepage and the Database. We also have the Shopping cart and Checkout feature where any customer can add any book they like to their shopping cart by clicking on the &#39;add to cart&#39; button. They can add as many different books as they like also as many copies of those books as they want to. Providing that stock of that book is available. If Stock of that book is not available, that customer will be informed with a message Only 1 left in stock. The &#39;buy now&#39; button proceeds the customer to checkout.</p>
 
 **Flowchart for Customer:**
-
+<a href="https://ibb.co/X3hFVYG"><img src="https://i.ibb.co/qWtmxJ2/Screenshot-2.png" alt="Screenshot-2" border="0"></a>
 
 # **Project Summary**
 
