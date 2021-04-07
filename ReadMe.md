@@ -1,30 +1,28 @@
 
-<h1><p>Final Project Report for</p></h1>
+<h1><center>Final Project Report for E-Commerce Website: Online Book Shop</center></h1>
 
-<p>E-Commerce Website: Online Book Shop</p>
+<p><center>CSE 299</center></p>
 
-<p>CSE 299</p>
+<p><center>Junior Project Design</center></p>
 
-<p> Junior Project Design</p>
+<p><center> Section 5</center></p>
 
-<p> Section 5</p>
+<p><center>Group 5</center></p>
 
-<p> Group 5</p>
+<p><center>Fall 2020</center></p>
 
-<p> Fall 2020</p>
+<p><center> North South University</center></p>
 
-<p> North South University</p>
+<p><center> Submitted to: Dr. Md. Mahfuzur Rahman (MMR4) </center></p>
 
-<p> Submitted to: Dr. Md. Mahfuzur Rahman (MMR4) </p>
-
-<p>Submitted by:</p>
-
+<p><center>Submitted by:</center></p>
+<center>
 | Name | Id | NSU Email |
 | --- | --- | --- |
 | Jahin Mahbub | 1531552042 | JAHIN.MAHBUB@NORTHSOUTH.EDU |
 | Hasib Zaman | 1712603642 | HASIB.ZAMAN@NORTHSOUTH.EDU |
-
-**Ecommerce Website: Online Book Shop**
+</center>
+<center>**Ecommerce Website: Online Book Shop**</center>
 
 **Abstract:**
 <p>
